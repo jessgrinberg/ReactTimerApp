@@ -11,7 +11,7 @@ var Navigation = () => {
                       <IndexLink to="/" activeClassName="active-link">Timer</IndexLink>
                   </li>
                   <li>
-                      <IndexLink to="/" activeClassName="active-link">Countdown</IndexLink>
+                      <Link to="/countdown" activeClassName="active-link">Countdown</Link>
                   </li>
                 </ul>
             </div>
